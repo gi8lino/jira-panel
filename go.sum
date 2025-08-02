@@ -6,8 +6,8 @@ github.com/Masterminds/semver/v3 v3.3.0 h1:B8LGeaivUe71a5qox1ICM/JLl0NqZSW5CHyL+
 github.com/Masterminds/semver/v3 v3.3.0/go.mod h1:4V+yj/TJE1HU9XfppCwVMZq3I84lprf4nC11bSS5beM=
 github.com/Masterminds/sprig/v3 v3.3.0 h1:mQh0Yrg1XPo6vjYXgtf5OtijNAKJRNcTdOOGZe3tPhs=
 github.com/Masterminds/sprig/v3 v3.3.0/go.mod h1:Zy1iXRYNqNLUolqCpL4uhk6SHUMAOSCzdgBfDb35Lz0=
-github.com/containeroo/tinyflags v0.0.34 h1:u9oALUAy82ZOe7PdbT+vCgI3USoSmuJspzqKktDQ/HQ=
-github.com/containeroo/tinyflags v0.0.34/go.mod h1:eiIeqRE1uTvO0n4oVkA27oQuKVBj46Rm+TiuNv5lT60=
+github.com/containeroo/tinyflags v0.0.35 h1:12W0QHhcPkG2TNg6/OiDCC3b+KOAgyRQbrrBMK3z310=
+github.com/containeroo/tinyflags v0.0.35/go.mod h1:eiIeqRE1uTvO0n4oVkA27oQuKVBj46Rm+TiuNv5lT60=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/frankban/quicktest v1.14.6 h1:7Xjx+VpznH+oBnejlPUj8oUpdxnVs4f8XU8WnHkI4W8=
